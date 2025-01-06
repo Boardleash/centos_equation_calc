@@ -1,1 +1,1 @@
-# centos_equation_calc
+# equation_calc
